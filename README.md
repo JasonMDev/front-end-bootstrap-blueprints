@@ -2,7 +2,7 @@
 
 These are my notes from working through the book
 [*Bootstrap Site Blueprints*](https://www.packtpub.com/web-development/bootstrap-site-blueprints)
-by [David Cochran](alittlecode.com)
+by [David Cochran](http://alittlecode.com/)
 and published on Feb 2014.
 
 ## Synopsis
