@@ -1,10 +1,10 @@
-# Bootstrap Site Blueprints
-*Without Bootstrap your web designs may not be reaching their full potential. This book will change that through a series of hands-on projects covering everything from custom icon fonts to JavaScript plugins.*
-
 These are my notes from working through the book
 [*Bootstrap Site Blueprints*](https://www.packtpub.com/web-development/bootstrap-site-blueprints)
 by [David Cochran](http://alittlecode.com/)
 and published on Feb 2014.
+
+# Bootstrap Site Blueprints
+*Without Bootstrap your web designs may not be reaching their full potential. This book will change that through a series of hands-on projects covering everything from custom icon fonts to JavaScript plugins.*
 
 ## Synopsis taken from the book.
 *ISBN 9781782164524 © Packt Publishing Limited. All Rights Reserved*
