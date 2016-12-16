@@ -1,22 +1,24 @@
-# Learning Log
-
-## Chapter 1: Title
-### Section 1: Title
-#### Sub-section 1: Title
-- [x] File: path.ext
- - [x] Text.
- - [ ] Text.
-
 # Learning Log and Table of Contents
+*This is a record of what I have read from this book.*
 
-# Ch 01: Giving Computers the Ability to Learn from Data
-######§ 01: Building intelligent machines to transform data into knowledge
-#####§ 02: The three different types of machine learning 
-- [x] **Making predictions about the future with supervised learning** 
- - [x] Classification for predicting class labels
- - [x] Regression for predicting continuous outcomes
+## Ch 01: Getting Started with Bootstrap
+##### § 01: Quantity and quality
+- [x] Improving with age
+- [x] The power of leaner CSS 
 
-- [x] **Solving interactive problems with reinforcement learning**
-- [x] **Discovering hidden structures with unsupervised learning**
- - [ ] Finding subgroups with clustering
- - [ ] Dimensionality reduction for data compression
+##### § 02: Downloading Bootstrap
+- [x] The files you'll have
+
+##### § 03: Preparing a Project Template Folder
+- [x] Getting H5BP
+
+## Ch 01: Chapter Title
+##### § 01: Main Section
+- [x] Sub-section
+ - [x] *Sub-sub-section*
+ - [x] *Sub-sub-section*
+
+##### § 02: The three different types of machine learning 
+- [x] Sub-section
+ - [x] *Sub-sub-section*
+ - [x] *Sub-sub-section*
